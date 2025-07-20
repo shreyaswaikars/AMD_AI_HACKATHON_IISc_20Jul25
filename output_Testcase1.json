@@ -1,0 +1,76 @@
+{
+    "Attendees": [
+        {
+            "email": "userone.amd@gmail.com",
+            "events": [
+                {
+                    "Attendees": [
+                        "userone.amd@gmail.com",
+                        "usertwo.amd@gmail.com",
+                        "userthree.amd@gmail.com"
+                    ],
+                    "EndTime": "2025-07-24T09:30:00",
+                    "NumAttendees": 3,
+                    "StartTime": "2025-07-24T09:00:00",
+                    "Summary": "Agentic AI Project Status Update"
+                }
+            ]
+        },
+        {
+            "email": "usertwo.amd@gmail.com",
+            "events": [
+                {
+                    "Attendees": [
+                        "userone.amd@gmail.com",
+                        "usertwo.amd@gmail.com",
+                        "userthree.amd@gmail.com"
+                    ],
+                    "EndTime": "2025-07-24T09:30:00",
+                    "NumAttendees": 3,
+                    "StartTime": "2025-07-24T09:00:00",
+                    "Summary": "Agentic AI Project Status Update"
+                }
+            ]
+        },
+        {
+            "email": "userthree.amd@gmail.com",
+            "events": [
+                {
+                    "Attendees": [
+                        "userone.amd@gmail.com",
+                        "usertwo.amd@gmail.com",
+                        "userthree.amd@gmail.com"
+                    ],
+                    "EndTime": "2025-07-24T09:30:00",
+                    "NumAttendees": 3,
+                    "StartTime": "2025-07-24T09:00:00",
+                    "Summary": "Agentic AI Project Status Update"
+                }
+            ]
+        }
+    ],
+    "Datetime": "19-07-2025T12:34:55",
+    "From": "userone.amd@gmail.com",
+    "Location": "IISc Bangalore",
+    "MetaData": {
+        "date_extraction": "",
+        "fallback_used": true,
+        "llm_used": false,
+        "processing_method": "Rule_Based_Success",
+        "reasoning": "Rule-based scheduler found optimal time",
+        "time_extraction": ""
+    },
+    "Request_id": "6118b54f-907b-4451-8d48-dd13d76033a5",
+    "scheduling_metadata": {
+        "alternative_slots": 5,
+        "conflicts_resolved": false,
+        "email_analysis": {
+            "duration_minutes": 30,
+            "preferred_day": "2025-07-24T12:34:55",
+            "priority": "medium",
+            "urgency_keywords": []
+        },
+        "processing_timestamp": "2025-07-20T08:05:05.722169",
+        "slot_score": 130.0
+    }
+}
